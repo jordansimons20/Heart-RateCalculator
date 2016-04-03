@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Heart-Rate Calculator "</string>
+    <string name="action_settings">Settings</string>
+    <string name="ageview">Your Age:</string>
+    <string name="maxrateview">Max Heart Rate:</string>
+    <string name="targetrateview">Target Range:</string>
+    <string name="ageeditText"></string>
+    <string name="agetextview">0 Years</string>
+    <string name="maxratetextview" />
+    <string name="targetratetextview" />
+</resources>
